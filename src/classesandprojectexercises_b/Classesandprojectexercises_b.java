@@ -17,6 +17,7 @@ public class Classesandprojectexercises_b {
         // TODO code application logic here
         System.out.println("HelloWorld!");
         System.out.println("HelloEveryone!");
+        System.out.println("ImConfused");
     }
     
 }
